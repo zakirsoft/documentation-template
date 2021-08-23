@@ -1,1 +1,3 @@
-# docs-template
+# Introduction
+
+Documentation Template using [Tabler](https://tabler.io/)
