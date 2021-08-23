@@ -9,7 +9,8 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
 :root {
-  --tblr-blue: #206bc4;
+  /* --tblr-blue: #206bc4; */
+  --tblr-blue: #0080FF;
   --tblr-azure: #4299e1;
   --tblr-indigo: #4263eb;
   --tblr-purple: #ae3ec9;
@@ -30,7 +31,8 @@
   --tblr-gray-700: #6e7680;
   --tblr-gray-800: #444e5a;
   --tblr-gray-900: #232e3c;
-  --tblr-primary: #206bc4;
+  /* --tblr-primary: #206bc4; */
+  --tblr-primary: #0080FF;
   --tblr-secondary: #656d77;
   --tblr-success: #2fb344;
   --tblr-info: #4299e1;
